@@ -25,7 +25,7 @@ An elegant and functional **Todo List Application** designed to simplify task ma
 
 ## **🎨 UI Preview**
 ### Main Interface
-
+![app preview](Images/Screenshot_2025-01-17-20-50-07-164-edit_com.android.chrome.jpg)
 *The app's sleek interface showcasing its core functionalities.*
 
 ---
