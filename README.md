@@ -25,29 +25,13 @@ An elegant and functional **Todo List Application** designed to simplify task ma
 
 ## **🎨 UI Preview**
 ### Main Interface
-![Todo List App Screenshot](./assets/todo_list_preview.jpg)  
+
 *The app's sleek interface showcasing its core functionalities.*
 
 ---
 
 ## **📜 About the Project**
 This project is a part of the **GenAI 101 with Pieces FREE Certification** program, completed in 1 day. The certification focuses on leveraging generative AI tools for building interactive and impactful applications.
-
----
-
-### ✨ Complete **GenAI 101 with Pieces**
-
-<aside>
-🚨 **Getting Stuck Somewhere?**  
-Join our Discord Server to collaborate with others and complete the certification.  
-</aside>
-
-<aside>
-🔗 **Access the Certification Page Here:**  
-[https://luc.to/pclugd](https://luc.to/pclugd)  
-</aside>
-
-![Pieces Logo](https://prod-files-secure.s3.us-west-2.amazonaws.com/17d57ee6-a9f2-4880-bb43-b63f9a69f3d6/73c8beb4-9cf7-4439-9d6f-0eff56df2c5e/pqieces.png)
 
 ---
 
