@@ -4,7 +4,9 @@
 An elegant and functional **Todo List Application** designed to simplify task management. With intuitive controls and categorization features, users can seamlessly organize, track, and manage their daily priorities.
 
 ---
-**Try App 👉:** ![click here](https://itzdineshx.github.io/To-do-list.app/)
+**Try App 👉:** https://itzdineshx.github.io/To-do-list.app/
+---
+
 ## **🌟 Features**
 ### 🎯 **Efficient Task Management**
 - **Add Tasks**: Create tasks with customizable priorities (Low, Medium, High) and categories (Personal, Work, etc.).
