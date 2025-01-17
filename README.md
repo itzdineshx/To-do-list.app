@@ -45,6 +45,7 @@ This project was created as part of the **GenAI 101 with Pieces FREE Certificati
 
 ## **sample use case**
 ![sample use of app](Images/Screenshot_2025-01-17-20-42-12-558-edit_com.android.chrome.jpg)
+![result of app](Images/Screenshot_2025-01-17-20-42-12-558-edit_com.android.chrome.jpg)
 ---
 
 ## **🤝 Contributing**
